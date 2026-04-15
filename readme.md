@@ -140,7 +140,7 @@ Secure each servo firmly at its joint before connecting wires. Route all servo s
 - [ ] Add **OTA firmware updates** over the same Wi-Fi AP
 ---
 
-📜 Acknowledgment
+📜 Acknowledgment-
 This project was initially developed as a team effort and has been further modified and enhanced with additional features.
 
 ---
